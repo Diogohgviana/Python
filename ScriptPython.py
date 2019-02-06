@@ -1,6 +1,6 @@
 import csv, os
 
-reportFilename = "C:\Users\dgomesvi\Desktop\Diogo Viana"
+reportFilename = "teste.csv"
 reportDelimiter = ';'
 outputPath = '.'
 
